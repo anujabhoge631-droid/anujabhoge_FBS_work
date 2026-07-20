@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+	float base=10,height=9;
+	float area=0.5*base*height;
+	printf("Area=%.2f",area);
+	return 0;
+}
